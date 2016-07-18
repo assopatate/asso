@@ -254,7 +254,7 @@ Jean-François GIGAND, ingénieur, français, Président
 
 
 Benjamin PREVOST, administrateur informatique, français, Secrétaire
-.. adresse ..?
+Chez LERIGNIER - 26 avenue du Général de Gaulle 92250 La Garenne Colombes
 
 
 ?, Trésorier
