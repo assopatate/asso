@@ -1,7 +1,7 @@
 
 
 ## Création de l'association :
-# Collectif PATATE
+# PATATE
 
 
 ## ARTICLE PREMIER - NOM
@@ -10,7 +10,7 @@ Il est fondé entre les adhérents aux présents statuts une association
 régie par la loi du 1er juillet 1901 et le décret du 16 août 1901,
 ayant pour titre :
 
-**Collectif PATATE**
+**PATATE**
 
 
 ## ARTICLE 2 - OBJET
